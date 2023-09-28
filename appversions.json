@@ -1,5 +1,6 @@
 {
   "coreapp": "v0.1.0",
   "subapp": "v1.1.0",
-  "logapp": "v100.1.0"
+  "logapp": "v100.1.0",
+  "newapp": "v0.0.1"
 }
